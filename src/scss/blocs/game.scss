@@ -63,7 +63,7 @@
 .player1{
   width: 450px;
     height: 500px;
-    background-image: url(./medias/skins/gilet_neutre.gif) ;
+
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -75,7 +75,7 @@
 .player2{
   width: 450px;
     height: 500px;
-    background-image: url(./medias/skins/crs_neutre.gif) ;
+  //  background-image: url(./medias/skins/crs_neutre.gif);
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -89,7 +89,7 @@
 }
 
 .player1-state2{
-  
+  //background-image: url(./medias/skins/crs_neutre.gif); 
   background-color: green;
 }
 
@@ -97,7 +97,7 @@
   background-color: yellow;
 }
 .player2-state1{
-  background-image: url(./medias/skins/crs_neutre.gif);
+  // background-image: url(./medias/skins/crs_neutre.gif);
   width: 250px;
   height: 500px;
 }
